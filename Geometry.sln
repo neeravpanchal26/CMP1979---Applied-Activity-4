@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geometry.Console", "Geometr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geometry.Library", "Geometry.Library\Geometry.Library.csproj", "{32413890-6503-4CD9-AE15-39AE5261A02B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geometry.AppiumTests", "Geometry.AppiumTests\Geometry.AppiumTests.csproj", "{64BCD1F8-BE06-49D9-A964-7DF280263E36}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -28,5 +30,9 @@ Global
 		{1A8893B0-7E8E-4045-A9AB-355A55FC8D31}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A8893B0-7E8E-4045-A9AB-355A55FC8D31}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A8893B0-7E8E-4045-A9AB-355A55FC8D31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64BCD1F8-BE06-49D9-A964-7DF280263E36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64BCD1F8-BE06-49D9-A964-7DF280263E36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64BCD1F8-BE06-49D9-A964-7DF280263E36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64BCD1F8-BE06-49D9-A964-7DF280263E36}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

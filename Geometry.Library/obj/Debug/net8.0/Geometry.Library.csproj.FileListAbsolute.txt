@@ -1,0 +1,12 @@
+/workspaces/CMP1979---Applied-Activity-4/Geometry.Library/obj/Debug/net8.0/Geometry.Library.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CMP1979---Applied-Activity-4/Geometry.Library/obj/Debug/net8.0/Geometry.Library.AssemblyInfoInputs.cache
+/workspaces/CMP1979---Applied-Activity-4/Geometry.Library/obj/Debug/net8.0/Geometry.Library.AssemblyInfo.cs
+/workspaces/CMP1979---Applied-Activity-4/Geometry.Library/obj/Debug/net8.0/Geometry.Library.csproj.CoreCompileInputs.cache
+/workspaces/CMP1979---Applied-Activity-4/Geometry.Library/obj/Debug/net8.0/Geometry.Library.sourcelink.json
+/workspaces/CMP1979---Applied-Activity-4/Geometry.Library/bin/Debug/net8.0/Geometry.Library.deps.json
+/workspaces/CMP1979---Applied-Activity-4/Geometry.Library/bin/Debug/net8.0/Geometry.Library.dll
+/workspaces/CMP1979---Applied-Activity-4/Geometry.Library/bin/Debug/net8.0/Geometry.Library.pdb
+/workspaces/CMP1979---Applied-Activity-4/Geometry.Library/obj/Debug/net8.0/Geometry.Library.dll
+/workspaces/CMP1979---Applied-Activity-4/Geometry.Library/obj/Debug/net8.0/refint/Geometry.Library.dll
+/workspaces/CMP1979---Applied-Activity-4/Geometry.Library/obj/Debug/net8.0/Geometry.Library.pdb
+/workspaces/CMP1979---Applied-Activity-4/Geometry.Library/obj/Debug/net8.0/ref/Geometry.Library.dll
