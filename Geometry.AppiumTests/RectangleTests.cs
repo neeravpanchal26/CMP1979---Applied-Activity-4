@@ -26,7 +26,7 @@ public class RectangleTests
     public void TearDown()
     {
         
-        driver.Quit();
+        driver.Dispose();
     }
 
     [Test]
